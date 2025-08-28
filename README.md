@@ -15,40 +15,40 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## 📖 Index
 <ul>
-<li><a href="#when-you-get-stuck">When you get stuck</a></li>
-<li><a href="#news">News</a></li>
-<li><a href="#magazines">Magazines</a></li>
-<li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
-<li><a href="#cryptocurrency">Cryptocurrency</a></li>
-<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
-<li><a href="#general-coding-advice">General Coding advice</a></li>
-<li><a href="#coding-style">Coding Style</a></li>
-<li><a href="#general-tools">General Tools</a></li>
-<li><a href="#interview-preparation">Interview Preparation</a></li>
-<li><a href="#documentaries">Documentaries</a></li>
-<li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
-<li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
-<li><a href="#learn-ai">Artificial Intelligence And Machine Learning</a></li>
-<li><a href="#seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
-<li><a href="#everything-in-one-place">Everything in one place</a></li>
-<li><a href="#youtube-channels">YouTube Channels</a></li>
-<li><a href="#good-articles">Good Articles</a></li>
-<li><a href="#bash-and-shell-scripting">Bash and Shell scripting</a></li>
-<li><a href="#podcasts">Podcasts</a></li>
-<li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
-<li><a href="#watch-others-code">Watch others code</a></li>
-<li><a href="#tutorials">Tutorials</a></li>
-<li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
-<li><a href="#competitive-programming">Competitive programming</a></li>
-<li><a href="#computer-books">Computer Books</a></li>
-<li><a href="#video-tutorials">Video Tutorials</a></li>
-<li><a href="#online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
-<li><a href="#blogs-of-developers">Blogs of Developers</a></li>
-<li><a href="#for-improving-your-english">For improving your English</a></li>
-<li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
-<li><a href="#open-source-websites">Open Source Websites</a></li>
-<li><a href="#internships">Internships</a></li>
-<li><a href="#jobs">Jobs</a></li>
+<li><a href="#-when-you-get-stuck">When you get stuck</a></li>
+<li><a href="#-news">News</a></li>
+<li><a href="#-magazines">Magazines</a></li>
+<li><a href="#-coding-practice-for-beginners">Coding practice for beginners</a></li>
+<li><a href="#-cryptocurrency">Cryptocurrency</a></li>
+<li><a href="#-for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
+<li><a href="#-general-coding-advice">General Coding advice</a></li>
+<li><a href="#-coding-style">Coding Style</a></li>
+<li><a href="#-general-tools">General Tools</a></li>
+<li><a href="#-interview-preparation">Interview Preparation</a></li>
+<li><a href="#-documentaries">Documentaries</a></li>
+<li><a href="#-moocs-for-learning-something-new">MOOCs for learning something new</a></li>
+<li><a href="#-sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
+<li><a href="#-learn-ai">Artificial Intelligence And Machine Learning</a></li>
+<li><a href="#-seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
+<li><a href="#-everything-in-one-place">Everything in one place</a></li>
+<li><a href="#-youtube-channels">YouTube Channels</a></li>
+<li><a href="#-good-articles">Good Articles</a></li>
+<li><a href="#-bash-and-shell-scripting">Bash and Shell scripting</a></li>
+<li><a href="#-podcasts">Podcasts</a></li>
+<li><a href="#-building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
+<li><a href="#-watch-others-code">Watch others code</a></li>
+<li><a href="#-tutorials">Tutorials</a></li>
+<li><a href="#-what-should-a-programmer-know">What should a programmer know</a></li>
+<li><a href="#-competitive-programming">Competitive programming</a></li>
+<li><a href="#-computer-books">Computer Books</a></li>
+<li><a href="#-video-tutorials">Video Tutorials</a></li>
+<li><a href="#-online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
+<li><a href="#-blogs-of-developers">Blogs of Developers</a></li>
+<li><a href="#-for-improving-your-english">For improving your English</a></li>
+<li><a href="#-when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
+<li><a href="#-open-source-websites">Open Source Websites</a></li>
+<li><a href="#-internships">Internships</a></li>
+<li><a href="#-jobs">Jobs</a></li>
 </ul>
 
 ## ❓ When you get stuck
@@ -67,7 +67,6 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## 📰 News
 - [ACM TechNews](http://technews.acm.org) : TechNews
-- [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : Posts unique quality articles on technology, science, politics and society.
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
@@ -87,6 +86,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 - [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
+- [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
@@ -232,6 +232,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## 🛠️ General Tools
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
+- [CORS-Tester](https://cors-error.dev/cors-tester/) : A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
@@ -242,6 +243,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pyrexp](https://pythonium.net/regex) : Online regex tester and visualizer for Python.
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
+- [Ray.so](https://www.ray.so/): Beautiful code snippet screenshots.
 - [Prodia AI Image API](https://prodia.com/) : API for open sourced image models
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 - [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
@@ -254,6 +256,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
 - [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
 - [JSON Crack](https://jsoncrack.com/) : An online open-source tool designed for visualizing data in various languages such as JSON, YAML, CSV, and more.
+- [JSONing](https://jsoning.com/) : Collection of JSON tools, including a formatter, validator, comparator, testers, generators, and a mock API for testing and prototyping.
 - [Pad.new](https://pad.new) : Free cloud-based IDE to run code and databases in almost any language
 - [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
 - [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
@@ -267,6 +270,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
 - [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
 - [Svix Play](https://play.svix.com/): Webhook tester & debugger. Test webhooks directly from your test suite.
+- [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
+- [Typerush](https://www.typerush.com/): Increase typing speed while racing.
+- [IT-Tools](https://it-tools.tech/): Collection of handy online tools for developers.
 
 
 <div align="right">
@@ -477,7 +483,6 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 📦 Everything in one place
-- [AI Tools](https://aicollective.tools) : Explore a curated selection of AI tools and resources
 - [API Documentation](http://devdocs.io) : A one-place well-known API Documentation with a searchable interface
 - [Baeldung](https://www.baeldung.com) : Step-by-step guides for Spring, rest, Java, security, persistence, Jackson, HTTP client-side and Kotlin
 - [BtechBasics](https://btechbasics.in/) : Fundamental concepts of Computer Science Engineering using hands-on exercises
